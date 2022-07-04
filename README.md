@@ -1,5 +1,5 @@
 ### Hello! My name is Jhonatas Machado
-#### I'm an Oracle CX Commerce developer, and I have some personal projects for Android and Add-ons for Firefox, with plans to build the Add-ons to Google Chrome.
+#### I'm an Oracle CX Commerce developer with personal projects of apps for Android, Add-ons for Firefox, and I have plans to port some of my Add-ons to Google Chrome as well.
 <br>
 <div align="center">
   <a href="https://github.com/jhonatasrm">
