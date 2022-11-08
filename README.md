@@ -1,4 +1,4 @@
-### Hello! My name is Jhonatas Machado
+### Hello! My name is Jhonatas Rodrigues Machado
 #### I'm a Front-End Developer with personal projects of apps for Android, Add-ons for Firefox, and I have plans to port some of my Add-ons to Google Chrome as well.
 <br>
 <div align="center">
