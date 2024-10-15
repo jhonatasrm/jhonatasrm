@@ -1,5 +1,5 @@
 ### Hello! My name is Jhonatas Rodrigues Machado
-#### I'm a Software Developer with personal projects of apps for Android, Add-ons for Firefox, and I have plans to port some of my Add-ons to Google Chrome as well.
+#### I'm a Software Developer, and on this GitHub account, I have several personal projects, including Firefox Add-ons. I also plan to expand them to Google Chrome.
 <br>
 <div align="center">
   <a href="https://github.com/jhonatasrm">
@@ -10,9 +10,12 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="jhonatasrm-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jhonatasrm-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="jhonatasrm-KO" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/knockout/knockout-plain-wordmark.svg ">
+  <img align="center" alt="jhonatasrm-Node" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" alt="jhonatasrm-KO" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/knockout/knockout-plain-wordmark.svg ">
   <img align="center" alt="jhonatasrm-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jhonatasrm-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="jhonatasrm-LESS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/less/less-plain-wordmark.svg">
+  <img align="center" alt="jhonatasrm-Oracle" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/oracle/oracle-original.svg">
 </div>
 
   ##
