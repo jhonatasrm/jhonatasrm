@@ -1,6 +1,6 @@
 ### Hello! My name is Jhonatas Rodrigues Machado
-#### I'm a Software Developer, and on this GitHub account, I have several personal projects, including Firefox Add-ons. I also plan to expand them to Google Chrome.
-<br>
+I'm a Software Developer with experience across a wide range of projects in multiple programming languages and platforms, including Android, iOS, and both frontend and backend web development. I showcase several personal projects on this GitHub account, including Firefox Add-ons, with plans to expand them to Google Chrome. I also contribute to open-source projects, with a particular fondness for Firefox and its community.
+
 <div align="center">
   <a href="https://github.com/jhonatasrm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatasrm&theme=gotham&show_icons=true"/>
@@ -15,7 +15,6 @@
   <img align="center" alt="jhonatasrm-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jhonatasrm-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jhonatasrm-LESS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/less/less-plain-wordmark.svg">
-  <img align="center" alt="jhonatasrm-Oracle" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/oracle/oracle-original.svg">
 </div>
 
   ##
@@ -26,5 +25,6 @@
   <a href="https://calendly.com/jhonatasrm/30min" target="_blank"><img height="28" src="https://img.shields.io/badge/Calendly-006bff?style=for-the-badge&logoColor=white" target="_blank"></a>
   <a href="https://www.jhonatasrm.com" target="_blank"><img height="28" src="https://img.shields.io/badge/Website-414141?style=for-the-badge&logo=Firefox&logoColor=white" target="_blank"></a>
   <a href="https://play.google.com/store/apps/developer?id=Jhonatas+Machado" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a> 
- <a href="https://addons.mozilla.org/pt-BR/firefox/user/13670188" target="_blank"><img height="28" src="https://img.shields.io/badge/Firefox%20Addons-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" target="_blank"></a>
+  <a href="https://addons.mozilla.org/pt-BR/firefox/user/13670188" target="_blank"><img height="28" src="https://img.shields.io/badge/Firefox%20Addons-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" target="_blank"></a>
+  <a href="https://people.mozilla.org/p/jhonatasrm" target="_blank"><img height="28" src="https://img.shields.io/badge/Mozillians-414141?style=for-the-badge&logo=Mozilla&logoColor=white" target="_blank"></a>
 </div>
