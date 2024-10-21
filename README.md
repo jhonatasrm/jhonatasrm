@@ -1,6 +1,5 @@
 ### Hello!<br>
-My name is Jhonatas Rodrigues Machado
-I'm a Software Developer with experience across a wide range of projects in multiple programming languages and platforms, including Android, iOS, and both frontend and backend web development. I showcase several personal projects on this GitHub account, including Firefox Add-ons, with plans to expand them to Google Chrome. I also contribute to open-source projects, with a particular fondness for Mozilla and its community.
+My name is Jhonatas Rodrigues Machado, and I'm a Software Developer with experience across a wide range of projects in various programming languages and platforms, including Android, iOS, as well as frontend and backend web development. I showcase several personal projects on my GitHub account, particularly Firefox Add-ons, with plans to expand them to Google Chrome. Additionally, I contribute to open-source projects, with a particular fondness for Mozilla and its community.
 
 <div align="center">
   <a href="https://github.com/jhonatasrm">
