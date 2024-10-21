@@ -1,5 +1,5 @@
 ### Hello! My name is Jhonatas Rodrigues Machado
-I'm a Software Developer with experience across a wide range of projects in multiple programming languages and platforms, including Android, iOS, and both frontend and backend web development. I showcase several personal projects on this GitHub account, including Firefox Add-ons, with plans to expand them to Google Chrome. I also contribute to open-source projects, with a particular fondness for Firefox and its community.
+I'm a Software Developer with experience across a wide range of projects in multiple programming languages and platforms, including Android, iOS, and both frontend and backend web development. I showcase several personal projects on this GitHub account, including Firefox Add-ons, with plans to expand them to Google Chrome. I also contribute to open-source projects, with a particular fondness for Mozilla and its community.
 
 <div align="center">
   <a href="https://github.com/jhonatasrm">
@@ -24,7 +24,6 @@ I'm a Software Developer with experience across a wide range of projects in mult
   <a href="https://www.linkedin.com/in/jhonatasrm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://calendly.com/jhonatasrm/30min" target="_blank"><img height="28" src="https://img.shields.io/badge/Calendly-006bff?style=for-the-badge&logoColor=white" target="_blank"></a>
   <a href="https://www.jhonatasrm.com" target="_blank"><img height="28" src="https://img.shields.io/badge/Website-414141?style=for-the-badge&logo=Firefox&logoColor=white" target="_blank"></a>
-  <a href="https://play.google.com/store/apps/developer?id=Jhonatas+Machado" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a> 
   <a href="https://addons.mozilla.org/pt-BR/firefox/user/13670188" target="_blank"><img height="28" src="https://img.shields.io/badge/Firefox%20Addons-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" target="_blank"></a>
   <a href="https://people.mozilla.org/p/jhonatasrm" target="_blank"><img height="28" src="https://img.shields.io/badge/Mozillians-414141?style=for-the-badge&logo=Mozilla&logoColor=white" target="_blank"></a>
 </div>
